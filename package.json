@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "grunt": "*",
+    "grunt-cli": "*",
+    "grunt-contrib-clean": "*",
+    "grunt-contrib-copy": "*",
+    "grunt-exec": "*",
+    "jit-grunt": "*",
+    "load-grunt-config": "*"
+
+  },
+  "scripts": {
+
+  }
+}
